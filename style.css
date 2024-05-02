@@ -1,0 +1,14 @@
+.buttons{
+    align-items: center;
+    padding-left: 35%;
+    margin-top: 16%;
+    justify-content: center;
+    display: flex;
+}
+
+.butt-item{
+    padding: 20px 30px; 
+    border: none;
+    cursor: pointer;
+    
+}
