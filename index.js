@@ -26,5 +26,6 @@ buttons.forEach(function(button){
         if(e.target == body){
             body.style.backgroundColor = 'white';
         }
+        
     })
 })
